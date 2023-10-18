@@ -1,0 +1,5 @@
+int x =4;
+if(x == 3)
+int y= x ;
+else 
+int y =7;

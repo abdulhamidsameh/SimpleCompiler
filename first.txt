@@ -1,0 +1,6 @@
+int x =4;
+float y = 4.8 ;
+char ;
+if( (x+9)>(y-2))
+int t= (6*5+x) ;
+else int t= y+9;

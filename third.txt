@@ -1,0 +1,10 @@
+int x=2000;
+if()
+float y=33.9 ;
+else
+if(4> )
+float y=x;
+else
+float y=x+7;
+
+
